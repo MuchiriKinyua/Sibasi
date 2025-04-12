@@ -24,7 +24,7 @@ Make sure your **AdventureWorks2022** database is running and accessible.
    git clone https://github.com/MuchiriKinyua/Sibasi
 
 then
-
+   ```bash
    cd Sibasi
 
 Create a virtual environment
