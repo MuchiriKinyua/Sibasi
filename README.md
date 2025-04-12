@@ -21,7 +21,7 @@ Make sure your **AdventureWorks2022** database is running and accessible.
 
 1. **Clone the project**
    ```bash
-   git clone [https://github.com/your-username/customer-recommender.git](https://github.com/MuchiriKinyua/Sibasi)
+   git clone https://github.com/MuchiriKinyua/Sibasi
    cd Sibasi
 
     Create a virtual environment
