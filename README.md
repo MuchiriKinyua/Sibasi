@@ -1,6 +1,6 @@
 # Customer Recommendation System
 
-![Screenshot from 2025-04-12 14-21-01](https://github.com/user-attachments/assets/756b3d10-b453-46cb-8fb5-756a5a882fb6)
+![Screenshot from 2025-04-12 14-38-15](https://github.com/user-attachments/assets/9e55f88a-dc62-491a-b4c4-54afc8b0c4a5)
 
 This Streamlit app provides personalized **product recommendations** for customers based on their purchase history from the **AdventureWorks2022** SQL Server database.
 
@@ -16,6 +16,8 @@ This Streamlit app provides personalized **product recommendations** for custome
 
 ### SQL Server
 Make sure your **AdventureWorks2022** database is running and accessible.
+
+![Screenshot from 2025-04-12 14-21-01](https://github.com/user-attachments/assets/756b3d10-b453-46cb-8fb5-756a5a882fb6)
 
 ## Setup
 
