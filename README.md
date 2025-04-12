@@ -23,12 +23,6 @@ Make sure your **AdventureWorks2022** database is running and accessible.
    ```bash
    git clone https://github.com/MuchiriKinyua/Sibasi
 
-then
-
-
-   cd Sibasi
-
-
 Create a virtual environment
 
 python -m venv myenv
