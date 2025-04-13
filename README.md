@@ -1,6 +1,6 @@
 # Product Recommendation System
 
-![Screenshot from 2025-04-13 05-11-01](https://github.com/user-attachments/assets/dc550d33-6170-4257-b7b6-5b31e20b4dcc)
+![Screenshot from 2025-04-13 09-01-57](https://github.com/user-attachments/assets/9e67b2ca-3963-4a87-9244-2c74ee575992)
 
 A customer-product recommender system built using collaborative filtering (User-Based, Item-Based, and KNN-based), following the CRISP-DM methodology. It allows users to input a CustomerID and receive product recommendations via a Flask web interface.
 
