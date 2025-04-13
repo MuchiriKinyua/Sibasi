@@ -84,13 +84,13 @@ python app.py
 Visit http://127.0.0.1:5000/ in your browser to use the app.
 Project Structure
 
-project/
+project/ </br>
 │
 ├── app.py                      # Flask web app </br>
 ├── knn_model.pkl               # Saved KNN model </br>
 ├── user_item_matrix.pkl        # Saved user-item matrix </br>
 ├── main.ipynb                  # Full CRISP-DM modeling notebook </br>
-├── template/
+├── template/ </br>
 │   └── index.html              # Frontend HTML form </br>
 └── README.md                   # Project documentation
 
