@@ -66,10 +66,10 @@ A Flask web app was created for easy interaction:
 
 # Local Deployment Instructions
 1. Clone the Repo
+  
+          git clone https://github.com/MuchiriKinyua/Customer-Recommendation-System
 
-    git clone https://github.com/MuchiriKinyua/Customer-Recommendation-System
-
-2. Create and Activate a Virtual Environment
+4. Create and Activate a Virtual Environment
 
 python3 -m venv myenv
 source myenv/bin/activate
