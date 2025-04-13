@@ -11,10 +11,10 @@ This project demonstrates how to build and deploy a recommendation system using 
 # CRISP-DM Process
 1. Business Understanding
 
-We aim to build a system that can recommend products to customers based on their purchase history and similarities to other customers. This can increase cross-sells and customer satisfaction.
+I aim to build a system that can recommend products to customers based on their purchase history and similarities to other customers. This can increase cross-sells and customer satisfaction.
 2. Data Understanding
 
-We worked with a dataset containing:
+I worked with a dataset containing:
 
     CustomerID
 
