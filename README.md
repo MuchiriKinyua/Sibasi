@@ -1,6 +1,6 @@
 # Customer Recommendation System
 
-![Screenshot from 2025-04-12 14-38-15](https://github.com/user-attachments/assets/9e55f88a-dc62-491a-b4c4-54afc8b0c4a5)
+![Screenshot from 2025-04-13 05-11-01](https://github.com/user-attachments/assets/0d8fcf59-ed16-4340-809b-1dcdf2b3fd9b)
 
 This Streamlit app provides personalized **product recommendations** for customers based on their purchase history from the **AdventureWorks2022** SQL Server database.
 
@@ -60,8 +60,6 @@ pyodbc.connect(
     Computes cosine similarity between customers
 
     Recommends products not yet purchased by the customer but favored by similar ones
-
-![Screenshot from 2025-04-13 05-11-01](https://github.com/user-attachments/assets/0d8fcf59-ed16-4340-809b-1dcdf2b3fd9b)
 
 # Dependencies
 
