@@ -53,6 +53,7 @@ Implemented:
 5. Evaluation
 
 Recommendations were tested using manual inspection of outputs for various customers. Future improvements can include recall/precision metrics or A/B testing.
+
 6. Deployment
 
 A Flask web app was created for easy interaction:
