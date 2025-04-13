@@ -86,12 +86,12 @@ Project Structure
 
 project/
 │
-├── app.py                      # Flask web app
-├── knn_model.pkl               # Saved KNN model
-├── user_item_matrix.pkl        # Saved user-item matrix
-├── main.ipynb                  # Full CRISP-DM modeling notebook
+├── app.py                      # Flask web app </br>
+├── knn_model.pkl               # Saved KNN model </br>
+├── user_item_matrix.pkl        # Saved user-item matrix </br>
+├── main.ipynb                  # Full CRISP-DM modeling notebook </br>
 ├── template/
-│   └── index.html              # Frontend HTML form
+│   └── index.html              # Frontend HTML form </br>
 └── README.md                   # Project documentation
 
 # Future Work
