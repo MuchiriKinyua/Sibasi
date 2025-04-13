@@ -61,6 +61,8 @@ pyodbc.connect(
 
     Recommends products not yet purchased by the customer but favored by similar ones
 
+![Screenshot from 2025-04-13 05-11-01](https://github.com/user-attachments/assets/0d8fcf59-ed16-4340-809b-1dcdf2b3fd9b)
+
 # Dependencies
 
     streamlit
